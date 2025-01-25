@@ -1,0 +1,20 @@
+﻿1. Log  in page 
+* Account number
+* password
+2. Register 
+* Name 
+* Parents name
+* National ID no
+* Address
+* Password
+* An account number will be given
+* The initial balance will be taken
+3. Account Summary
+* Total amount
+* Withdraw
+* Deposit
+* Final summary
+4. Create a Txt file for every account holder and save it to memory
+* Save the new account summary for every user as an individual unique file.
+* For any operation access that individual unique file.
+* After operation save the final summary to that file.
